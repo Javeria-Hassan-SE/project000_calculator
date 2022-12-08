@@ -1,16 +1,17 @@
 {
-  "name": "javeria_calculator0001",
+  "name": "javeria_calculator0004",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "index.js",
   "type":"module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin": "./index.js",
+  
   "devDependencies": {
     "@types/chalk": "^2.2.0",
     "@types/chalk-animation": "^1.6.1",
